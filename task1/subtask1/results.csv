@@ -1,0 +1,41 @@
+Prompt,Mode,Inference Time (s),Tokens/sec,Memory Allocated (MB),Memory Reserved (MB)
+Discuss the ethical implications of gene editing technologies like CRISPR, focusing on its potential impact on biodiversity.,Baseline,1.1362,88.0148,496.22,560.00
+Discuss the ethical implications of gene editing technologies like CRISPR, focusing on its potential impact on biodiversity.,KV-cache,1.1978,101.0157,917.31,964.00
+Imagine a future where artificial intelligence governs human society. Describe how healthcare systems are managed by AI.,Baseline,0.7163,139.6075,496.22,964.00
+Imagine a future where artificial intelligence governs human society. Describe how healthcare systems are managed by AI.,KV-cache,0.8649,138.7475,917.31,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, focusing on how they develop infrastructure.,Baseline,0.7017,142.5019,496.22,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, focusing on how they develop infrastructure.,KV-cache,0.8438,143.4043,917.31,964.00
+Explain the role of renewable energy sources in combating global warming, particularly focusing on solar power advancements.,Baseline,0.7116,140.5352,496.22,964.00
+Explain the role of renewable energy sources in combating global warming, particularly focusing on solar power advancements.,KV-cache,0.9452,126.9543,917.31,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, especially concerning unforeseen genetic consequences.,Baseline,0.5789,145.0943,496.22,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, especially concerning unforeseen genetic consequences.,KV-cache,0.8412,141.4728,917.31,964.00
+Summarize the key features of blockchain technology and its role in improving cybersecurity for businesses.,Baseline,0.7328,136.4708,496.22,964.00
+Summarize the key features of blockchain technology and its role in improving cybersecurity for businesses.,KV-cache,0.8426,140.0419,917.31,964.00
+Write a story where a group of explorers discover an ancient civilization hidden within a dense jungle, protected by supernatural forces.,Baseline,0.0114,2110.6071,496.22,964.00
+Write a story where a group of explorers discover an ancient civilization hidden within a dense jungle, protected by supernatural forces.,KV-cache,0.8407,146.3113,917.31,964.00
+Describe the impact of climate change on global agriculture, focusing on the adaptation strategies that farmers are employing to mitigate losses.,Baseline,0.6940,144.0949,496.22,964.00
+Describe the impact of climate change on global agriculture, focusing on the adaptation strategies that farmers are employing to mitigate losses.,KV-cache,0.9194,134.8689,917.31,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, particularly in relation to eradicating genetic diseases.,Baseline,0.7075,141.3354,496.22,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, particularly in relation to eradicating genetic diseases.,KV-cache,0.8427,144.7651,917.31,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, particularly in relation to animal welfare.,Baseline,0.7280,137.3681,496.22,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, particularly in relation to animal welfare.,KV-cache,0.8435,142.2666,917.31,964.00
+Imagine a future where artificial intelligence governs human society. Describe how privacy is protected or violated by AI systems.,Baseline,0.7093,140.9922,496.22,964.00
+Imagine a future where artificial intelligence governs human society. Describe how privacy is protected or violated by AI systems.,KV-cache,0.8449,144.3884,917.31,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, exploring the psychological effects of isolation.,Baseline,0.4791,152.3803,496.22,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, exploring the psychological effects of isolation.,KV-cache,0.9331,129.6744,917.31,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, detailing how they generate food and water.,Baseline,0.6922,144.4672,496.22,964.00
+Create a fictional scenario in which humans establish the first colony on Mars, detailing how they generate food and water.,KV-cache,0.8402,145.2037,917.31,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, with a focus on its long-term societal effects.,Baseline,0.6884,145.2580,496.22,964.00
+Discuss the ethical implications of gene editing technologies like CRISPR, with a focus on its long-term societal effects.,KV-cache,0.8400,147.6211,917.31,964.00
+Write a story where a group of explorers discover an ancient civilization hidden underground, with vast networks of tunnels and cities.,Baseline,0.0111,2161.8731,496.22,964.00
+Write a story where a group of explorers discover an ancient civilization hidden underground, with vast networks of tunnels and cities.,KV-cache,0.8401,146.4155,917.31,964.00
+Write an essay discussing the psychological effects of social media on teenagers, focusing on cyberbullying and its impact.,Baseline,0.6920,144.5021,496.22,964.00
+Write an essay discussing the psychological effects of social media on teenagers, focusing on cyberbullying and its impact.,KV-cache,0.8415,144.9819,917.31,964.00
+Summarize the key features of blockchain technology and its application in intellectual property rights management.,Baseline,0.7265,137.6448,496.22,964.00
+Summarize the key features of blockchain technology and its application in intellectual property rights management.,KV-cache,0.9036,130.5941,917.31,964.00
+Explain the fundamental differences between classical and quantum computing, focusing on how quantum algorithms differ from classical algorithms.,Baseline,0.7043,141.9940,496.22,964.00
+Explain the fundamental differences between classical and quantum computing, focusing on how quantum algorithms differ from classical algorithms.,KV-cache,0.8642,140.0152,917.31,964.00
+Write a story where a group of explorers discover an ancient civilization hidden beneath the ocean, with strange aquatic life forms.,Baseline,0.6992,143.0206,496.22,964.00
+Write a story where a group of explorers discover an ancient civilization hidden beneath the ocean, with strange aquatic life forms.,KV-cache,0.8394,146.5314,917.31,964.00
+Imagine a future where artificial intelligence governs human society. Describe how economic systems are influenced by AI decision-making.,Baseline,0.8490,97.7596,496.22,964.00
+Imagine a future where artificial intelligence governs human society. Describe how economic systems are influenced by AI decision-making.,KV-cache,0.8417,146.1352,917.31,964.00
